@@ -1,0 +1,42 @@
+// mon. //
+
+- Solve simple application examples
+- ANKI review
+- logical operators
+
+// tue. //
+
+- Solve simple application examples
+- ANKI review
+- simple recursion
+
+// wed. //
+
+- Solve simple application examples
+- ANKI review
+- addition and multiplication
+
+// thur. //
+
+- Solve simple application examples
+- ANKI review
+- previous and next
+
+// fri. //
+
+- Solve simple application examples
+- ANKI review
+- Comparing to zero
+
+// sat. //
+
+- Solve simple application examples
+- ANKI review
+- less or equal, less, equal
+
+// sun. //
+
+- Solve simple application examples
+- ANKI review
+- number that satisfies a condition
+- division

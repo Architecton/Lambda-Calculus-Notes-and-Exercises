@@ -1,0 +1,22 @@
+// mon. //
+
+- Solve simple application examples
+- ANKI review
+- logical operators
+
+// tue. //
+
+- solve simple application examples
+- ANKI review
+- primitive recursion
+
+// wed. //
+
+Notice also that foldl is tail recursive whereas foldr is not.  Typically when given a choice between using the two functions, you should use foldl for performance.  However, in many cases using foldr is easier, as in the concat function above.  If you need to use foldr on a very lengthy list, you may instead want to reverse the list first and use foldl.
+- previous and next
+
+
+// thur. //
+// fri. //
+// sat. //
+// sun. //
